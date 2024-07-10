@@ -1,0 +1,80 @@
+{
+  "Userlist": [
+    {
+      "id": "b2c5",
+      "ID": "1234",
+      "name": "fdggfddgf",
+      "email": "fgfdg@fdvgfd.com",
+      "address": "jhghkjghkjgj",
+      "mobile": "09876543298",
+      "gender": "male"
+    },
+    {
+      "id": "c351",
+      "ID": "1234",
+      "name": "dbgf",
+      "email": "hsnk@gmail.com",
+      "address": "hduyuygudgu",
+      "mobile": "09876543298",
+      "gender": "male"
+    },
+    {
+      "id": "c0a6",
+      "ID": "134",
+      "name": "cvvf",
+      "email": "hsnk@gmail.com",
+      "address": "hduyuygudgu",
+      "mobile": "09876543298",
+      "gender": "female"
+    },
+    {
+      "id": "0153",
+      "ID": "3664",
+      "name": "fdggfddgf",
+      "email": "fgfdg@fdvgfd.com",
+      "address": "jhghkjghkjgj",
+      "mobile": "09876543298",
+      "gender": "female"
+    },
+    {
+      "id": "1334",
+      "name": "asdf",
+      "email": "hsnk@gmail.com",
+      "address": "hduyuygudgu",
+      "mobile": "0987654321",
+      "gender": "female"
+    },
+    {
+      "id": "2487956",
+      "name": "cxgvf",
+      "email": "fgfdg@fdvgfd.com",
+      "address": "jhghkjghkjgj",
+      "mobile": "09876543298",
+      "gender": "male"
+    },
+    {
+      "id": "b2c5",
+      "name": "fdggfddgf",
+      "email": "fgfdg@fdvgfd.com",
+      "address": "jhghkjghkjgj",
+      "mobile": "09876543298",
+      "gender": "female"
+    },
+    {
+      "id": "b2c5",
+      "name": "fdggfddgf",
+      "email": "fgfdg@fdvgfd.com",
+      "address": "jhghkjghkjgj",
+      "mobile": "09876543298",
+      "gender": "male"
+    },
+    {
+      "id": "1234",
+      "name": "fdggfddgf",
+      "email": "fgfdg@fdvgfd.com",
+      "address": "jhghkjghkjgj",
+      "mobile": "09876543298",
+      "gender": "male"
+    }
+  ]
+}
